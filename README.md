@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 * Adobe Ilistlator
 * Adobe Photoshop
 
-## During study
+## During study 📖
 * HTML5
 * CSS3
 
