@@ -26,22 +26,22 @@ Here are some ideas to get you started:
 ## Links 🔗
 <div align="center">
     <a href="https://twitter.com/shiromamashiro">
-        <img src="https://user-images.githubusercontent.com/95982323/221343494-c0f56327-ef77-4450-8b1d-bdba4b971e85.png" alt="Twiter_button">
+        <img src="https://user-images.githubusercontent.com/95982323/221352776-11d4aebd-b2d6-4faa-93b6-91bc1916f30d.png" alt="Twiter_button">
     </a>
     <a href="https://misskey.io/@refinyaa">
-        <img src="https://user-images.githubusercontent.com/95982323/221343490-3a92a4d6-a573-4c9b-82d2-9eb169e8dac0.png" alt="Misskey_button">
+        <img src="https://user-images.githubusercontent.com/95982323/221352779-9f3e0034-46bb-4d25-bc7a-6b60853cf61e.png" alt="Misskey_button">
     </a>
     <a href="https://www.pixiv.net/users/18753741">
-        <img src="https://user-images.githubusercontent.com/95982323/221343491-ab85bee0-b3ca-42c1-8cbe-42cfe164f3b5.png" alt="Pixiv_button">
+        <img src="https://user-images.githubusercontent.com/95982323/221352780-aa8dedb2-e40c-401e-af31-eedd422931e3.png" alt="Pixiv_button">
     </a>
     <a href="https://skeb.jp/@shiromamashiro">
-        <img src="https://user-images.githubusercontent.com/95982323/221343492-64b7fcd5-a965-4221-ab18-90494aaaac1e.png" alt="Skeb_button">
+        <img src="https://user-images.githubusercontent.com/95982323/221352782-c2f2fb90-fd31-40dd-9677-b5698ff18d8c.png" alt="Skeb_button">
     </a>
     <a href="https://discord.com/users/refia#5849">
-        <img src="https://user-images.githubusercontent.com/95982323/221343495-1c111734-91f1-421c-8d83-c92b1f641f6b.png" alt="Discord_button">
+        <img src="https://user-images.githubusercontent.com/95982323/221352777-e3a1c057-fa3e-47e2-bcc3-d373e7c8f959.png" alt="Discord_button">
     </a>
     <a href="https://github.com/refia72">
-        <img src="https://user-images.githubusercontent.com/95982323/221343496-35faf99a-baa5-4e5d-911c-24c5f7ecba43.png" alt="GitHub_button">
+        <img src="https://user-images.githubusercontent.com/95982323/221352778-f30cdb34-bd2e-4026-ba01-ab36f03231af.png" alt="GitHub_button">
     </a>
     
 </div>
