@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## Skills 💪
 * Ilustlation
-* Adobe Ilistlator
+* Adobe Illustrator
 * Adobe Photoshop
 
 ## During study 📖
