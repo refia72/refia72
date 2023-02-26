@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Links 🔗
 <div align="center">
     <a href="https://twitter.com/shiromamashiro">
-        <img src="https://user-images.githubusercontent.com/95982323/221352776-11d4aebd-b2d6-4faa-93b6-91bc1916f30d.png" alt="Twiter_button">
+        <img src="./image/Twiter_button.png" alt="Twiter_button">
     </a>
     <a href="https://misskey.io/@refinyaa">
         <img src="https://user-images.githubusercontent.com/95982323/221352779-9f3e0034-46bb-4d25-bc7a-6b60853cf61e.png" alt="Misskey_button">
