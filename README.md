@@ -25,25 +25,12 @@ Here are some ideas to get you started:
 
 ## Links 🔗
 <div align="center">
-    <a href="https://twitter.com/shiromamashiro">
-        <img src="./image/Twitter_button.png" alt="Twitter_button">
-    </a>
-    <a href="https://misskey.io/@refinyaa">
-        <img src="./image/Misskey_button.png" alt="Misskey_button">
-    </a>
-    <a href="https://www.pixiv.net/users/18753741">
-        <img src="./image/Pixiv_button.png" alt="Pixiv_button">
-    </a>
-    <a href="https://skeb.jp/@shiromamashiro">
-        <img src="./image/Skeb_button.png" alt="Skeb_button">
-    </a>
-    <a href="https://discord.com/users/refia#5849">
-        <img src="./image/Discord_button.png" alt="Discord_button">
-    </a>
-    <a href="https://github.com/refia72">
-        <img src="./image/GitHub_button.png" alt="GitHub_button">
-    </a>
-    
+    <a href="https://twitter.com/shiromamashiro"><img src="./image/Twitter_button.png" alt="Twitter_button"></a>
+    <a href="https://misskey.io/@refinyaa"><img src="./image/Misskey_button.png" alt="Misskey_button"></a>
+    <a href="https://www.pixiv.net/users/18753741"><img src="./image/Pixiv_button.png" alt="Pixiv_button"></a>
+    <a href="https://skeb.jp/@shiromamashiro"><img src="./image/Skeb_button.png" alt="Skeb_button"></a>
+    <a href="https://discord.com/users/refia#5849"><img src="./image/Discord_button.png" alt="Discord_button"></a>
+    <a href="https://github.com/refia72"><img src="./image/GitHub_button.png" alt="GitHub_button"></a>
 </div>
 
 ## Favorites 💗
